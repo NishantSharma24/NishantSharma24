@@ -1,6 +1,4 @@
-[![MasterHead](https://i.gifer.com/76Wt.gif
-)](https://nishantsharms24.io
-)
+[![MasterHead](https://i.gifer.com/76Wt.gif)](https://nishantsharma24.io)
 
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
 <h3 align="center">A passionate frontend developer from New Delhi ,India.</h3>
